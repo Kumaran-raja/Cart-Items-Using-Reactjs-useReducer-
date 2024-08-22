@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/Cart-Items-Using-Reactjs-useReducer-/static/css/main.0a6845df.css",
-    "main.js": "/Cart-Items-Using-Reactjs-useReducer-/static/js/main.42cacda6.js",
-    "static/media/apple.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/apple.a1a4d1bb64ac327e89a8.png",
+    "main.css": "/Cart-Items-Using-Reactjs-useReducer-/static/css/main.b92ac88d.css",
+    "main.js": "/Cart-Items-Using-Reactjs-useReducer-/static/js/main.c1d48165.js",
+    "static/media/orange.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/orange.2221c885403f6ac7603b.png",
+    "static/media/apple.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/apple.27dd714e75439cd47bd7.png",
+    "static/media/banana.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/banana.1816c791e6ade514d816.png",
+    "static/media/grapes.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/grapes.52140e5cc5b793645018.png",
+    "static/media/cherries.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/cherries.9670ce2e2a01359dcde2.png",
     "index.html": "/Cart-Items-Using-Reactjs-useReducer-/index.html",
-    "main.0a6845df.css.map": "/Cart-Items-Using-Reactjs-useReducer-/static/css/main.0a6845df.css.map",
-    "main.42cacda6.js.map": "/Cart-Items-Using-Reactjs-useReducer-/static/js/main.42cacda6.js.map"
+    "main.b92ac88d.css.map": "/Cart-Items-Using-Reactjs-useReducer-/static/css/main.b92ac88d.css.map",
+    "main.c1d48165.js.map": "/Cart-Items-Using-Reactjs-useReducer-/static/js/main.c1d48165.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a6845df.css",
-    "static/js/main.42cacda6.js"
+    "static/css/main.b92ac88d.css",
+    "static/js/main.c1d48165.js"
   ]
 }
