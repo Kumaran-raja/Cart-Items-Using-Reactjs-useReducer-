@@ -2,11 +2,13 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+
 }
 .split{
     display: grid;
     grid-template-columns: 200px 200px 200px 200px;
-    text-align: center;
+    text-align: center;border: 1px solid black;
+    padding: 10px;
     align-items: center;
     background-color: antiquewhite;
 }
@@ -14,6 +16,7 @@
     display: grid;
     grid-template-columns: 200px 200px 200px 200px;
     align-items: center;
+    text-align: center;border: 1px solid black;
     font-size: 25px;
     font-weight: bold;
 }
@@ -39,4 +42,7 @@ button{
     
     background-color: antiquewhite;
     border-style: none;
+}
+h1{
+    margin: 20px;
 }
