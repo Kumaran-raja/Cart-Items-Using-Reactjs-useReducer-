@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cart-Items-Using-Reactjs-useReducer-/static/css/main.0a6845df.css",
+    "main.js": "/Cart-Items-Using-Reactjs-useReducer-/static/js/main.42cacda6.js",
+    "static/media/apple.png": "/Cart-Items-Using-Reactjs-useReducer-/static/media/apple.a1a4d1bb64ac327e89a8.png",
+    "index.html": "/Cart-Items-Using-Reactjs-useReducer-/index.html",
+    "main.0a6845df.css.map": "/Cart-Items-Using-Reactjs-useReducer-/static/css/main.0a6845df.css.map",
+    "main.42cacda6.js.map": "/Cart-Items-Using-Reactjs-useReducer-/static/js/main.42cacda6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a6845df.css",
+    "static/js/main.42cacda6.js"
+  ]
+}
